@@ -5,5 +5,7 @@ public class GitTest {
         System.out.println("第一次更新");
         System.out.println("第四次更新");
         System.out.println("第wu次更新");
+        System.out.println("b1更新");
+
     }
 }
